@@ -109,7 +109,7 @@ header {
 }
 
 .area-left .drodown-show .lish small:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 .area-left .drodown-show .usd li {
@@ -119,7 +119,7 @@ header {
 }
 
 .area-left .drodown-show a:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 .area-right ul {
@@ -137,7 +137,7 @@ header {
 }
 
 .area-right ul li a:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 .row-right {
@@ -159,7 +159,7 @@ header {
 }
 
 .row-right ul li a:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 /* header mid */
@@ -198,7 +198,7 @@ header {
 }
 
 .store-info .hotline i {
-    color: var(--text-color);
+    color: var(--color);
     margin-right: 10px;
 }
 
@@ -278,11 +278,11 @@ header {
 }
 
 .content-right h3 a:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 .content-right .price-box span {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 .cart-wrap .price-content p {
@@ -305,7 +305,7 @@ header {
 }
 
 .cart-wrap .cart-form button:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 /* header bottom */
@@ -340,7 +340,7 @@ header {
 }
 
 .container .menu ul li a:hover {
-    color: var(--text-color);
+    color: var(--color);
 }
 
 #header-bottom .menu .home {
@@ -392,7 +392,7 @@ header {
 }
 
 #header-bottom .menu .page .column h4{
-    color: var(--text-color);
+    color: var(--color);
 }
 
 #header-bottom .search {
@@ -468,7 +468,7 @@ header {
 }
 
 #slider .slider-women .shop-now button:hover {
-    background-color: var(--text-color);
+    background-color:var(--color);
 }
 
 /* BANER */
